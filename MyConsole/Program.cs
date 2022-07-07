@@ -10,6 +10,8 @@ namespace MyConsole
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hiii");
+            Console.ReadLine();
         }
     }
 }
