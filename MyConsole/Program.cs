@@ -41,11 +41,33 @@ namespace MyConsole
             Console.WriteLine("yes");           
             Console.WriteLine("yes");           
             Console.WriteLine("yes");           
-            Console.WriteLine("yes");           
-            
-            
-            
-            
+            Console.WriteLine("yes");
+
+
+            Console.WriteLine("yes");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+
+
+
             Console.ReadLine();
           
 
