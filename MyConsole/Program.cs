@@ -12,6 +12,11 @@ namespace MyConsole
         {
             Console.WriteLine("okkk");
             Console.ReadLine();
+            Console.WriteLine("okkk");
+            Console.ReadLine();
+            Console.WriteLine("okkk");
+            Console.ReadLine();
+
         }
     }
 }
