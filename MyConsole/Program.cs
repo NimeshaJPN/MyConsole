@@ -10,12 +10,9 @@ namespace MyConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("okkk");
+            Console.WriteLine("no");
             Console.ReadLine();
-            Console.WriteLine("okkk");
-            Console.ReadLine();
-            Console.WriteLine("okkk");
-            Console.ReadLine();
+          
 
         }
     }
