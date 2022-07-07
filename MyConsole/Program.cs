@@ -10,7 +10,42 @@ namespace MyConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("no");
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("no");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            Console.WriteLine("yes");           
+            
+            
+            
+            
             Console.ReadLine();
           
 
